@@ -1,0 +1,108 @@
+﻿SamsungTTS Sync Table
+# PackageName/LanguageCode/Variant/VoiceName/DownloadLink/NeedEngineVersion/LocationFolder
+
+<LANGUAGE_INFO>
+version		201603161
+com.samsung.SMT.lang.poc		eng-USA		m00		Unknown		null	0	null
+</LANGUAGE_INFO>
+
+<DOWNLOADABLE_LIST>
+version		0
+com.samsung.SMT.lang_ko_kr_f00		kor-KOR		f00		Ji-Soo		null	0	null
+com.samsung.SMT.lang_ko_kr_m01		kor-KOR		m01		Min-Ho		samsungapps://productDetail/com.samsung.SMT.lang_ko_kr_m01	0	null
+com.samsung.SMT.lang_de_de_f00		deu-DEU		f00		Hanna		null	0	null
+com.samsung.SMT.lang_de_de_m00		deu-DEU		m00		Marc		samsungapps://productDetail/com.samsung.SMT.lang_de_de_m00	0	null
+com.samsung.SMT.lang_ru_ru_f00		rus-RUS		f00		Natalya		null	0	null
+com.samsung.SMT.lang_ru_ru_m00		rus-RUS		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_ru_ru_m00	0	null
+com.samsung.SMT.lang_en_us_f00		eng-USA		f00		Alice		null	0	null
+com.samsung.SMT.lang.poc		eng-USA		m00		Andrew		samsungapps://productDetail/com.samsung.SMT.lang.poc	0	null
+com.samsung.SMT.lang_es_es_f00		spa-ESP		f00		Rosa		null	0	null
+com.samsung.SMT.lang_es_es_m00		spa-ESP		m00		Jose		samsungapps://productDetail/com.samsung.SMT.lang_es_es_m00	0	null
+com.samsung.SMT.lang_en_gb_f00		eng-GBR		f00		Elizabeth	null	0	null
+com.samsung.SMT.lang_en_gb_m00		eng-GBR		m00		Harry		samsungapps://productDetail/com.samsung.SMT.lang_en_gb_m00	0	null
+com.samsung.SMT.lang_it_it_f00		ita-ITA		f00		Christina	null	0	null
+com.samsung.SMT.lang_it_it_m00		ita-ITA		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_it_it_m00	0	null
+com.samsung.SMT.lang_ja_jp_f00		jpn-JPN		f00		Yuki		null	0	null
+com.samsung.SMT.lang_ja_jp_m00		jpn-JPN		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_ja_jp_m00	0	null
+com.samsung.SMT.lang_zh_cn_f00		zho-CHN		f00		Na-Na		null	0	null
+com.samsung.SMT.lang_zh_cn_m00		zho-CHN		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_zh_cn_m00	0	null
+com.samsung.SMT.lang_zh_tw_f00		zho-TWN		f00		Unknown		null	0	null
+com.samsung.SMT.lang_zh_tw_m00		zho-TWN		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_zh_tw_m00	0	null
+com.samsung.SMT.lang_pt_pt_f00		por-PRT		f00		Gabriela	null	0	null
+com.samsung.SMT.lang_pt_pt_m00		por-PRT		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_pt_pt_m00	0	null
+com.samsung.SMT.lang_fr_fr_f00		fra-FRA		f00		Marie		null	0	null
+com.samsung.SMT.lang_fr_fr_m00		fra-FRA		m00		Julien		samsungapps://productDetail/com.samsung.SMT.lang_fr_fr_m00	0	null
+com.samsung.SMT.lang_hi_in_f00		hin-IND		f00		Trisha		null	0	null
+com.samsung.SMT.lang_hi_in_m00		hin-IND		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_hi_in_m00	0	null
+com.samsung.SMT.lang_pt_br_m00		por-BRA		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_pt_br_m00	0	null
+com.samsung.SMT.lang_es_mx_m00		spa-MEX		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_es_mx_m00	0	null
+com.samsung.SMT.lang_cs_cz_m00		ces-CZE		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_cs_cz_m00	0	null
+com.samsung.SMT.lang_nl_nl_m00		nld-NLD		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_nl_nl_m00	0	null
+com.samsung.SMT.lang_da_dk_m00		dan-DNK		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_da_dk_m00	0	null
+com.samsung.SMT.lang_fi_fi_m00		fin-FIN		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_fi_fi_m00	0	null
+com.samsung.SMT.lang_el_gr_m00		ell-GRC		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_el_gr_m00	0	null
+com.samsung.SMT.lang_hu_hu_m00		hun-HUN		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_hu_hu_m00	0	null
+com.samsung.SMT.lang_nb_no_m00		nob-NOR		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_nb_no_m00	0	null
+com.samsung.SMT.lang_pl_pl_m00		pol-POL		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_pl_pl_m00	0	null
+com.samsung.SMT.lang_sk_sk_m00		slk-SVK		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_sk_sk_m00	0	null
+com.samsung.SMT.lang_sv_se_m00		swe-SWE		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_sv_se_m00	0	null
+com.samsung.SMT.lang_tr_tr_m00		tur-TUR		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_tr_tr_m00	0	null
+com.samsung.SMT.lang_fr_ca_m00		fra-CAN		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_fr_ca_m00	0	null
+com.samsung.SMT.lang_en_au_m00		eng-AUS		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_en_au_m00	0	null
+com.samsung.SMT.lang_zh_hk_m00		zho-HKG		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_zh_hk_m00	0	null
+com.samsung.SMT.lang_en_in_m00		eng-IND		m00		Unknown		samsungapps://productDetail/com.samsung.SMT.lang_en_in_m00	0	null
+com.samsung.SMT.lang_en_us_l01		eng-USA		l01		Grace		samsungapps://productDetail/com.samsung.SMT.lang_en_us_l01	0	null
+com.samsung.SMT.lang_en_us_z01		eng-USA		z01		Michael		samsungapps://productDetail/com.samsung.SMT.lang_en_us_z01	0	null
+com.samsung.SMT.lang_fr_fr_l01		fra-FRA		l01		Aurelie		samsungapps://productDetail/com.samsung.SMT.lang_fr_fr_l01	0	null
+com.samsung.SMT.lang_fr_fr_z01		fra-FRA		z01		Luc			samsungapps://productDetail/com.samsung.SMT.lang_fr_fr_z01	0	null
+com.samsung.SMT.lang_it_it_l01		ita-ITA		l01		Bianca		samsungapps://productDetail/com.samsung.SMT.lang_it_it_l01	0	null
+com.samsung.SMT.lang_it_it_z01		ita-ITA		z01		Marco		samsungapps://productDetail/com.samsung.SMT.lang_it_it_z01	0	null
+com.samsung.SMT.lang_de_de_l01		deu-DEU		l01		Petra		samsungapps://productDetail/com.samsung.SMT.lang_de_de_l01	0	null
+com.samsung.SMT.lang_de_de_z01		deu-DEU		z01		Markus		samsungapps://productDetail/com.samsung.SMT.lang_de_de_z01	0	null
+com.samsung.SMT.lang_en_gb_l01		eng-GBR		l01		Victoria	samsungapps://productDetail/com.samsung.SMT.lang_en_gb_l01	0	null
+com.samsung.SMT.lang_en_gb_z01		eng-GBR		z01		Oliver		samsungapps://productDetail/com.samsung.SMT.lang_en_gb_z01	0	null
+com.samsung.SMT.lang_es_es_l01		spa-ESP		l01		Noelia		samsungapps://productDetail/com.samsung.SMT.lang_es_es_l01	0	null
+com.samsung.SMT.lang_es_es_z01		spa-ESP		z01		Pablo		samsungapps://productDetail/com.samsung.SMT.lang_es_es_z01	0	null
+com.samsung.SMT.lang_ru_ru_l01		rus-RUS		l01		Ekaterina	samsungapps://productDetail/com.samsung.SMT.lang_ru_ru_l01	0	null
+com.samsung.SMT.lang_ru_ru_z01		rus-RUS		z01		Yuri		samsungapps://productDetail/com.samsung.SMT.lang_ru_ru_z01	0	null
+com.samsung.SMT.lang_pt_br_l01		por-BRA		l01		Luciana		samsungapps://productDetail/com.samsung.SMT.lang_pt_br_l01	0	null
+com.samsung.SMT.lang_ko_kr_x01		kor-KOR		x01		You-jin		samsungapps://productDetail/com.samsung.SMT.lang_ko_kr_x01	0	smt_ko_KR_x01.am
+com.samsung.SMT.lang_ko_kr_y01		kor-KOR		y01		Min-Ho		null	0	smt_ko_KR_y01.am
+com.samsung.SMT.lang_pt_br_l02		por-BRA		l02		Luciana		null	0	null
+com.samsung.SMT.lang_zh_cn_l01		zho-CHN		l01		Yun			null	0	null
+com.samsung.SMT.lang_ar_xa_z01		ara-ARE		z01		Malik		null	0	null
+com.samsung.SMT.lang_cs_cz_l01		ces-CZE		l01		Iveta		samsungapps://productDetail/com.samsung.SMT.lang_cs_cz_l01	0	null
+com.samsung.SMT.lang_da_dk_l01		dan-DNK		l01		Sara		samsungapps://productDetail/com.samsung.SMT.lang_da_dk_l01	0	null
+com.samsung.SMT.lang_el_gr_l01		ell-GRC		l01		Ariadne		samsungapps://productDetail/com.samsung.SMT.lang_el_gr_l01	0	null
+com.samsung.SMT.lang_fi_fi_l01		fin-FIN		l01		Satu		samsungapps://productDetail/com.samsung.SMT.lang_fi_fi_l01	0	null
+com.samsung.SMT.lang_hu_hu_l01		hun-HUN		l01		Mariska		samsungapps://productDetail/com.samsung.SMT.lang_hu_hu_l01	0	null
+com.samsung.SMT.lang_nl_nl_l01		nld-NLD		l01		Lena		samsungapps://productDetail/com.samsung.SMT.lang_nl_nl_l01	0	null
+com.samsung.SMT.lang_nb_no_l01		nob-NOR		l01		Nora		samsungapps://productDetail/com.samsung.SMT.lang_nb_no_l01	0	null
+com.samsung.SMT.lang_pl_pl_l01		pol-POL		l01		Eva			samsungapps://productDetail/com.samsung.SMT.lang_pl_pl_l01	0	null
+com.samsung.SMT.lang_pt_pt_l01		por-PRT		l01		Catarina	samsungapps://productDetail/com.samsung.SMT.lang_pt_pt_l01	0	null
+com.samsung.SMT.lang_sk_sk_l01		slk-SVK		l01		Elena		samsungapps://productDetail/com.samsung.SMT.lang_sk_sk_l01	0	null
+com.samsung.SMT.lang_sv_se_l01		swe-SWE		l01		Klara		samsungapps://productDetail/com.samsung.SMT.lang_sv_se_l01	0	null
+com.samsung.SMT.lang_tr_tr_l01		tur-TUR		l01		Cem			samsungapps://productDetail/com.samsung.SMT.lang_tr_tr_l01	0	null
+com.samsung.SMT.lang_en_au_l01		eng-AUS		l01		Olivia		samsungapps://productDetail/com.samsung.SMT.lang_en_au_l01	0	null
+com.samsung.SMT.lang_es_mx_l01		spa-MEX		l01		Angelica	samsungapps://productDetail/com.samsung.SMT.lang_es_mx_l01	0	null
+com.samsung.SMT.lang_fr_ca_l01		fra-CAN		l01		Chantal		samsungapps://productDetail/com.samsung.SMT.lang_fr_ca_l01	0	null
+com.samsung.SMT.lang_th_th_l01		tha-THA		l01		Kanya		null	0	null
+com.samsung.SMT.lang_cs_cz_l02		ces-CZE		l02		Iveta		null	0	null
+com.samsung.SMT.lang_da_dk_l02		dan-DNK		l02		Sara		null	0	null
+com.samsung.SMT.lang_el_gr_l02		ell-GRC		l02		Ariadne		null	0	null
+com.samsung.SMT.lang_fi_fi_l02		fin-FIN		l02		Satu		null	0	null
+com.samsung.SMT.lang_hu_hu_l02		hun-HUN		l02		Mariska		null	0	null
+com.samsung.SMT.lang_nl_nl_l02		nld-NLD		l02		Lena		null	0	null
+com.samsung.SMT.lang_nb_no_l02		nob-NOR		l02		Nora		null	0	null
+com.samsung.SMT.lang_pl_pl_l02		pol-POL		l02		Eva			null	0	null
+com.samsung.SMT.lang_pt_pt_l02		por-PRT		l02		Catarina	null	0	null
+com.samsung.SMT.lang_sk_sk_l02		slk-SVK		l02		Elena		null	0	null
+com.samsung.SMT.lang_sv_se_l02		swe-SWE		l02		Klara		null	0	null
+com.samsung.SMT.lang_tr_tr_l02		tur-TUR		l02		Cem			null	0	null
+com.samsung.SMT.lang_en_au_l02		eng-AUS		l02		Olivia		null	0	null
+com.samsung.SMT.lang_es_mx_l02		spa-MEX		l02		Angelica	null	0	null
+com.samsung.SMT.lang_fr_ca_l02		fra-CAN		l02		Chantal		null	0	null
+</DOWNLOADABLE_LIST>
+
+
+<ENDTABLE>

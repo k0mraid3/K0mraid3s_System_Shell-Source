@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.samsung.SMT.lang.poc"
+4    android:versionCode="201603161"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:8:5-10:41
+8        android:minSdkVersion="21"
+8-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:9:9-35
+9        android:targetSdkVersion="21" />
+9-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:10:9-38
+10
+11    <uses-permission android:name="android.permission.DUMP" />
+11-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:12:5-62
+11-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:12:22-60
+12
+13    <application
+13-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:14:5-63:19
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.5.0] C:\Users\simpl\.gradle\caches\transforms-3\ebad50ffb9337f56d4c2eef9ca3acc3e\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+15        android:icon="@drawable/ic_launcher_eng_usa"
+15-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:15:9-53
+16        android:label="@string/app_name" >
+16-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:16:9-41
+17        <activity
+17-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:17:9-31:20
+18            android:name="com.samsung.SMT.lang.poc.MainActivity"
+18-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:19:13-41
+19            android:exported="true"
+19-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:20:13-36
+20            android:label="@string/app_name" >
+20-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:21:13-45
+21            <intent-filter>
+21-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:22:13-26:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:23:17-69
+22-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:23:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:25:17-77
+24-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:25:27-74
+25            </intent-filter>
+26
+27            <meta-data
+27-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:28:13-30:36
+28                android:name="android.app.lib_name"
+28-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:29:17-52
+29                android:value="" />
+29-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:30:17-33
+30        </activity>
+31        <activity
+31-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:33:9-35:39
+32            android:name="androidx.activity.ComponentActivity"
+32-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:34:13-63
+33            android:exported="true" />
+33-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:35:13-36
+34
+35        <receiver
+35-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:42:9-54:20
+36            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+36-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:43:13-76
+37            android:directBootAware="false"
+37-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:44:13-44
+38            android:enabled="true"
+38-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:45:13-35
+39            android:exported="true"
+39-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:46:13-36
+40            android:permission="android.permission.DUMP" >
+40-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:47:13-57
+41            <intent-filter>
+41-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:48:13-50:29
+42                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+42-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:49:17-91
+42-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:49:25-88
+43            </intent-filter>
+44            <intent-filter>
+44-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:51:13-53:29
+45                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+45-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:52:17-85
+45-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:52:25-82
+46            </intent-filter>
+47        </receiver>
+48
+49        <service android:name="com.samsung.SMT.lang.poc.LanguagePack" >
+49-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:58:9-62:19
+49-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:58:18-46
+50            <intent-filter>
+50-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:59:13-61:29
+51                <action android:name="com.samsung.SMT.lang.poc" />
+51-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:60:17-67
+51-->C:\Users\simpl\OneDrive\Desktop\SMT_STUDIO\app\src\main\AndroidManifest.xml:60:25-64
+52            </intent-filter>
+53        </service>
+54
+55        <uses-library
+55-->[androidx.window:window:1.0.0] C:\Users\simpl\.gradle\caches\transforms-3\43e345914df685a68427bfb142885a5c\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+56            android:name="androidx.window.extensions"
+56-->[androidx.window:window:1.0.0] C:\Users\simpl\.gradle\caches\transforms-3\43e345914df685a68427bfb142885a5c\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0] C:\Users\simpl\.gradle\caches\transforms-3\43e345914df685a68427bfb142885a5c\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+58        <uses-library
+58-->[androidx.window:window:1.0.0] C:\Users\simpl\.gradle\caches\transforms-3\43e345914df685a68427bfb142885a5c\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+59            android:name="androidx.window.sidecar"
+59-->[androidx.window:window:1.0.0] C:\Users\simpl\.gradle\caches\transforms-3\43e345914df685a68427bfb142885a5c\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+60            android:required="false" />
+60-->[androidx.window:window:1.0.0] C:\Users\simpl\.gradle\caches\transforms-3\43e345914df685a68427bfb142885a5c\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+61    </application>
+62
+63</manifest>

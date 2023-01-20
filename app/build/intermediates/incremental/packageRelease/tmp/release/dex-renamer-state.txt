@@ -1,0 +1,4 @@
+#Thu Jan 19 17:16:17 CST 2023
+base.0=C\:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

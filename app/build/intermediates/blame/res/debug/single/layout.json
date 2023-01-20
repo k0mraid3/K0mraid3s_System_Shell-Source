@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_second.xml",
+        "source": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\src\\main\\res\\layout\\fragment_second.xml"
+    },
+    {
+        "merged": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_first.xml",
+        "source": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\src\\main\\res\\layout\\fragment_first.xml"
+    },
+    {
+        "merged": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_control_panel.xml",
+        "source": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\src\\main\\res\\layout\\activity_control_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\camera_layout.xml",
+        "source": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\src\\main\\res\\layout\\camera_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\simpl\\OneDrive\\Desktop\\SMT_STUDIO\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

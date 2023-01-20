@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.samsung.SMT.lang.poc",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 201603161,
+        "versionName": "1.0",
+        "outputFile": "app-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "resources-debug.ap_",
+      "properties": {
+        "packageId": "com.samsung.SMT.lang.poc",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

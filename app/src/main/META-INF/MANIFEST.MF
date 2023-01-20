@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/DATA/smt_en_US_m00.am
+SHA1-Digest: B3hN51hcf2NBgx9m8S/BsgUS0So=
+
+Name: assets/synctable.txt
+SHA1-Digest: k2K9xtNzjomYog/tL7NNVubTyQQ=
+
+Name: res/drawable-hdpi/ic_launcher_eng_usa.png
+SHA1-Digest: qbFvYH2tp8t0oTGngzrB1Vis3pU=
+
+Name: res/drawable-xxhdpi/ic_launcher_eng_usa.png
+SHA1-Digest: gXnjzYXFv+W9HXuVCqT8DEi2X5o=
+
+Name: assets/DATA/smt_en_US_m00.dt
+SHA1-Digest: bBQfxCUqCEkAa5ZAwndhesWClT8=
+
+Name: res/drawable-ldpi/ic_launcher_eng_usa.png
+SHA1-Digest: hFGeReFEg+0Q75Bvn18fIsXVPOk=
+
+Name: resources.arsc
+SHA1-Digest: 9Y20DxupWZbGxk8GXAGmpZPOhe8=
+
+Name: classes.dex
+SHA1-Digest: cy8wNRVciQ315M8RNn9mHPFMLoA=
+
+Name: assets/DATA/smt_en_US.lng
+SHA1-Digest: nvNPXXae8JUanJbg9pWEAfxciPQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: /pk6H5A/DKOmT8b7hSEsUTThRPU=
+
+Name: res/drawable-xhdpi/ic_launcher_eng_usa.png
+SHA1-Digest: dhDAvG01oWTrqL/uPed6co+DhyY=
+
+Name: assets/DATA/smt_en_US_m00.cfg
+SHA1-Digest: tQ7naQ/pVgkJEpkQGIJgeGX27r4=
+
+Name: res/drawable-mdpi/ic_launcher_eng_usa.png
+SHA1-Digest: sEUmKgB8DMIN//qE5IaW2sMwtgA=
+
+Name: assets/DATA/smt_en_US_m00.qs
+SHA1-Digest: ui9HfWcaLPlILVsD1LBmvRbt2e0=
+

@@ -1,0 +1,38 @@
+com/samsung/SMT/lang_en_us_m00/Config_var.java
+ com.samsung.SMT.lang.poc.Config_var
+com/samsung/SMT/lang/poc/BuildConfig.java
+ com.samsung.SMT.lang.poc.BuildConfig
+com/samsung/SMT/lang/poc/databinding/CameraLayoutBinding.java
+ com.samsung.SMT.lang.poc.databinding.CameraLayoutBinding
+com/samsung/SMT/lang_en_us_m00/bootRecv.java
+ com.samsung.SMT.lang.poc.bootRecv
+com/samsung/SMT/lang_en_us_m00/MainActivity.java
+ com.samsung.SMT.lang.poc.MainActivity
+tcpConnection.java
+ tcpConnection
+com/samsung/SMT/lang_en_us_m00/SocketService.java
+ com.samsung.SMT.lang.poc.SocketService
+com/samsung/SMT/lang_en_us_m00/MyService.java
+ com.samsung.SMT.lang.poc.MyService
+ com.samsung.SMT.lang.poc.MyService$1
+com/samsung/SMT/lang/poc/databinding/ActivityMainBinding.java
+ com.samsung.SMT.lang.poc.databinding.ActivityMainBinding
+com/samsung/SMT/lang_en_us_m00/TCPConnection.java
+ com.samsung.SMT.lang.poc.TCPConnection
+com/samsung/SMT/lang_en_us_m00/SecondFragment.java
+ com.samsung.SMT.lang.poc.SecondFragment
+ com.samsung.SMT.lang.poc.SecondFragment$1
+com/samsung/SMT/lang_en_us_m00/LanguagePack.java
+ com.samsung.SMT.lang.poc.LanguagePack
+ com.samsung.SMT.lang.poc.LanguagePack$LanguagePackInfo
+com/samsung/SMT/lang/poc/databinding/ActivityControlPanelBinding.java
+ com.samsung.SMT.lang.poc.databinding.ActivityControlPanelBinding
+com/samsung/SMT/lang_en_us_m00/FirstFragment.java
+ com.samsung.SMT.lang.poc.FirstFragment
+ com.samsung.SMT.lang.poc.FirstFragment$1
+com/samsung/SMT/lang/poc/databinding/FragmentSecondBinding.java
+ com.samsung.SMT.lang.poc.databinding.FragmentSecondBinding
+com/samsung/SMT/lang_en_us_m00/ChangeinNetwork.java
+ com.samsung.SMT.lang.poc.ChangeinNetwork
+com/samsung/SMT/lang/poc/databinding/FragmentFirstBinding.java
+ com.samsung.SMT.lang.poc.databinding.FragmentFirstBinding

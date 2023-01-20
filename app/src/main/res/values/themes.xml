@@ -1,0 +1,8 @@
+<resources>
+
+
+
+    <style name="Theme.SamsungTTSUSEnglishDICK.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.SamsungTTSUSEnglishDICK.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
