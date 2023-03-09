@@ -1,6 +1,6 @@
 # K0mraid3s_System_Shell-Source
  Source code for K0mraid3s 2023 System Shell PoC
-As seen on XDA before the public disclousure was removed by XDA Moderators, thankfully, its been patched as of 02/2023
+As seen on XDA before the public disclousure was removed by XDA Moderators. Patched as of 02/2023
 
 If you just need this prebuilt, see this repo https://github.com/k0mraid3/K0mraid3s-System-Shell
 
